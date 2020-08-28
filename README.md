@@ -1,2 +1,2 @@
-# Our-Colab
-FIFI (Fiya Fitri) Colaboration
+# Our-Collab
+FIFI (Fiya Fitri) Collaboration
